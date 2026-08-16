@@ -1,3 +1,10 @@
+> **⚠️ 本仓库已归档（只读）**，项目已迁移至新仓库：
+> **https://github.com/admin-ping/wechat-db-decrypt**
+>
+> 新仓库已重写为**微信 4.0 支持**的纯 Python 实现（进程内存取密钥 + SQLCipher 4 解密），
+> 替代已下架的 SharpWxDump；旧版微信 3.x 的脚本保留在 git 历史中。
+> 本仓库仅作存档，不再更新，请前往新仓库获取最新版本。
+
 # -SharpWxDump-decode.py
 基于SharpWxDump的解密脚本
 
